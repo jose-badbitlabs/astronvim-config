@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.yaml" },
 }
